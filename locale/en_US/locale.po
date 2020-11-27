@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-27T16:49:29+00:00\n"
+"PO-Revision-Date: 2020-11-27T16:49:29+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.missingLocaleException.name"
+msgstr "Missing Locale Exception"
+
+msgid "plugins.generic.missingLocaleException.description"
+msgstr "A development tool that will throw an Exception when a locale key is missing in order to cause test failures."
